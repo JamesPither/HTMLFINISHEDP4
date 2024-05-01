@@ -1,0 +1,207 @@
+.supervisors-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.supervisors-supervisors {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 2500;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.supervisors-rectangle18 {
+  top: 370px;
+  left: 113px;
+  width: 100%;
+  height: 283px;
+  position: absolute;
+  max-width: 957px;
+  border-radius: 27px;
+}
+.supervisors-rectangle22 {
+  top: 487px;
+  left: 113px;
+  width: 100%;
+  height: 59px;
+  position: absolute;
+  max-width: 957px;
+  border-radius: 26px;
+}
+.supervisors-rectangle21 {
+  top: 428px;
+  left: 113px;
+  width: 100%;
+  height: 59px;
+  position: absolute;
+  max-width: 957px;
+  border-radius: 26px;
+}
+.supervisors-rectangle20 {
+  top: 369px;
+  left: 113px;
+  width: 100%;
+  height: 59px;
+  position: absolute;
+  max-width: 957px;
+  border-radius: 26px;
+}
+.supervisors-rectangle9 {
+  top: -13px;
+  left: 0px;
+  width: 2500px;
+  height: 77px;
+  position: absolute;
+}
+.supervisors-text {
+  top: 493px;
+  left: 133px;
+  color: rgba(23, 22, 22, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.supervisors-text2 {
+  top: 434px;
+  left: 133px;
+  color: rgb(23, 22, 22);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Crimson Text";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.supervisors-text3 {
+  top: 375px;
+  left: 131px;
+  color: rgba(23, 22, 22, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.supervisors-navlink {
+  display: contents;
+}
+.supervisors-return-st1 {
+  top: 723px;
+  left: 113px;
+  width: 264px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.supervisors-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 264px;
+  height: 144px;
+  position: absolute;
+  border-radius: 20px;
+}
+.supervisors-text5 {
+  top: 45px;
+  left: 47px;
+  color: rgba(247, 247, 247, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.supervisors-navlink1 {
+  display: contents;
+}
+.supervisors-streturn {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.supervisors-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-radius: 20px;
+}
+.supervisors-rectangle181 {
+  top: 4px;
+  left: 5.777777671813965px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.supervisors-form {
+  width: 658px;
+  height: 530px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.supervisors-select {
+  top: 250px;
+  left: 120px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+@media(max-width: 1200px) {
+  .supervisors-rectangle18 {
+    width: 75%;
+  }
+  .supervisors-rectangle22 {
+    width: 75%;
+  }
+  .supervisors-rectangle21 {
+    width: 75%;
+  }
+  .supervisors-rectangle20 {
+    width: 75%;
+  }
+}

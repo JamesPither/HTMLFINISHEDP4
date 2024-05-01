@@ -1,0 +1,128 @@
+.students-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.students-students {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 2500;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.students-text {
+  top: 325px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  width: 494px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.students-rectangle9 {
+  top: -13px;
+  left: 0px;
+  width: 2500px;
+  height: 77px;
+  position: absolute;
+}
+.students-navlink {
+  display: contents;
+}
+.students-psreturn {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.students-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-radius: 20px;
+}
+.students-rectangle18 {
+  top: 4px;
+  left: 5.777777671813965px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.students-navlink1 {
+  display: contents;
+}
+.students-return {
+  top: 661px;
+  left: 0px;
+  width: 264px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.students-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 264px;
+  height: 144px;
+  position: absolute;
+  border-radius: 20px;
+}
+.students-text10 {
+  top: 45px;
+  left: 47px;
+  color: rgba(247, 247, 247, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.students-form {
+  width: 608px;
+  height: 563px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.students-select {
+  top: 200px;
+  left: 0px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}

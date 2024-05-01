@@ -1,0 +1,181 @@
+.ps-meeting-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.ps-meeting-ps-meeting {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 2500;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.ps-meeting-rectangle9 {
+  top: -13px;
+  left: 0px;
+  width: 2500px;
+  height: 77px;
+  position: absolute;
+}
+.ps-meeting-navlink {
+  display: contents;
+}
+.ps-meeting-confirmmeetingps {
+  top: 857px;
+  left: 0px;
+  width: 264px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.ps-meeting-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 264px;
+  height: 144px;
+  position: absolute;
+  border-radius: 20px;
+}
+.ps-meeting-text {
+  top: 45px;
+  left: 47px;
+  color: rgba(247, 247, 247, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ps-meeting-navlink1 {
+  display: contents;
+}
+.ps-meeting-psreturn {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.ps-meeting-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-radius: 20px;
+}
+.ps-meeting-rectangle18 {
+  top: 4px;
+  left: 5.777777671813965px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.ps-meeting-form {
+  top: 177px;
+  left: 0px;
+  width: 1774px;
+  height: 670px;
+  display: flex;
+  position: absolute;
+}
+.ps-meeting-text2 {
+  top: 340px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.ps-meeting-select {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+.ps-meeting-select1 {
+  top: 100px;
+  left: 0px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+.ps-meeting-select2 {
+  top: 200px;
+  left: 0px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+.ps-meeting-textarea {
+  left: 0px;
+  width: 1266px;
+  bottom: 0px;
+  height: 288px;
+  position: absolute;
+  font-size: 30px;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: #dacccc;
+}
+@media(max-width: 1600px) {
+  .ps-meeting-textarea {
+    width: 1000px;
+  }
+}
+@media(max-width: 991px) {
+  .ps-meeting-textarea {
+    width: 750px;
+  }
+}
+@media(max-width: 767px) {
+  .ps-meeting-textarea {
+    width: 500px;
+  }
+}
+@media(max-width: 479px) {
+  .ps-meeting-textarea {
+    width: 75%;
+  }
+}

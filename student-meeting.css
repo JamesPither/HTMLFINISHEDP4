@@ -1,0 +1,170 @@
+.student-meeting-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.student-meeting-student-meeting {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 2500;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student-meeting-rectangle9 {
+  top: -13px;
+  left: 0px;
+  width: 2500px;
+  height: 77px;
+  position: absolute;
+}
+.student-meeting-navlink {
+  display: contents;
+}
+.student-meeting-confirmmeetingstudent {
+  left: 0px;
+  width: 264px;
+  bottom: 24px;
+  height: 144px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.student-meeting-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 264px;
+  height: 144px;
+  position: absolute;
+  border-radius: 20px;
+}
+.student-meeting-text {
+  top: 45px;
+  left: 47px;
+  color: rgba(247, 247, 247, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-meeting-navlink1 {
+  display: contents;
+}
+.student-meeting-studentreturn {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.student-meeting-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  border-radius: 20px;
+}
+.student-meeting-rectangle18 {
+  top: 4px;
+  left: 5.777777671813965px;
+  width: 53px;
+  height: 53px;
+  position: absolute;
+}
+.student-meeting-form {
+  top: 177px;
+  left: 0px;
+  width: 1774px;
+  height: 670px;
+  display: flex;
+  position: absolute;
+}
+.student-meeting-select {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+.student-meeting-select1 {
+  top: 100px;
+  left: 0px;
+  width: 414px;
+  height: 66px;
+  margin: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+}
+.student-meeting-text2 {
+  top: 250px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Crimson Text;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-meeting-textarea {
+  top: 380px;
+  left: 0px;
+  width: 1266px;
+  height: 288px;
+  position: absolute;
+  font-size: 30px;
+  align-self: flex-start;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-color: #dacccc;
+}
+@media(max-width: 1600px) {
+  .student-meeting-textarea {
+    width: 1137px;
+  }
+}
+@media(max-width: 1200px) {
+  .student-meeting-textarea {
+    width: 932px;
+  }
+}
+@media(max-width: 991px) {
+  .student-meeting-textarea {
+    width: 750px;
+  }
+}
+@media(max-width: 767px) {
+  .student-meeting-textarea {
+    width: 441px;
+  }
+}
